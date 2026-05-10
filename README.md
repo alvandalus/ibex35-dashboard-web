@@ -2,7 +2,7 @@
 
 Dashboard web interactivo con datos financieros en tiempo real de las 35 empresas del IBEX 35.
 
-🔗 **Demo en vivo:** https://alvandalus-ibex35-dashboard-web.streamlit.app
+🔗 **Demo en vivo:** https://ibex35-dashboard-web-sjylyzhrzxwvyqzmb4xbhi.streamlit.app/
 
 ## Herramientas
 - Python (yfinance, pandas, plotly, streamlit)
